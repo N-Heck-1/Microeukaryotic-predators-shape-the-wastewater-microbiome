@@ -1,0 +1,12 @@
+name_of_parameter_set metatranscr01
+---------
+parameter_name	apply_to_PR2_results	apply_to_SILVA_results
+---------
+taxatoexclude_filename	taxatoexclude_PR2_01.txt	taxatoexclude_SILVA_01.txt
+min_query_seq_length	0	0
+max_query_seq_length	1000	1000
+max_e_value	1e-35	1e-30
+min_bitscore	140	140
+min_alignment_length	0	0
+min_n_ident	0	0
+min_percent_identity	92	92
