@@ -15,7 +15,7 @@ do
 		prefetch $accession &
 		wait
 		echo prefetched $accession
-		#move the sra file to the terabite drive
+		#move the sra file to the terabyte drive
 		mv prefetch_output/sra/"$accession".sra /media/1tbssd/sra &
 		wait
 		echo moved $accession
