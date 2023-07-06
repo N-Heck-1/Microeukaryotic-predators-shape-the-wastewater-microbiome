@@ -8,7 +8,7 @@ This repository contains data and scripts of the paper [Heck _et al._, 2023](htt
 
 The publicly available dataset used consisted of shotgun metatranscriptomic sequences provided by [Herold et al. (2020)](https://www.nature.com/articles/s41467-020-19006-2).
 
-*      [Data Access](01_Data_Access.md) - These first steps concern how it was accessed and downloaded from the SRA.
+- [Data Access](01_Data_Access.md) - These first steps concern how it was accessed and downloaded from the SRA.
 
 ### Quality filtering
 
