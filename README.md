@@ -12,8 +12,7 @@ The publicly available dataset used consisted of shotgun metatranscriptomic sequ
 
 ### Quality filtering
 
-Assessing read quality [using fastqc](bash/quality_controller.sh).
-
+- [Quality Filtering](02_Quality_Filtering.md) - Once accessed, the quality of reads was assessed and trimming parameters were chosen.
 
 ### Assembly and Taxonomic assignment
 
